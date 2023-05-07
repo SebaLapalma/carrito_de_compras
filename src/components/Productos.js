@@ -6,6 +6,8 @@ const styles = {
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'space-between',
+        position: 'fixed',
+        alignItems: 'center'
     }
 }
 

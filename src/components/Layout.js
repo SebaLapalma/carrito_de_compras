@@ -6,10 +6,11 @@ const styles = {
         color: '#0A283E',
         alignItems: 'center',
         display: 'flex',
-        flexDirection: 'column',
+        flexDirection: 'space-between',
     },
     container: {
-        width: '1200px'
+        width: '72em',
+        
     }
 }
 

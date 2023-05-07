@@ -7,8 +7,8 @@ const styles = {
         backgroundColor: '#359A2C',
         color: '#fff',
         border: 'none',
-        padding: '15px',
-        borderRadius: '15px',
+        padding: '0.9em',
+        borderRadius: '0.9em',
         cursor: 'pointer',
     },
     bubble: {

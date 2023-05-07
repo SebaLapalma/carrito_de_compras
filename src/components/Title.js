@@ -2,7 +2,8 @@ import { Component } from 'react'
 
 const styles = {
     title: {
-        marginBottom: '30px'
+        marginBottom: '1.8em',
+        right: 0
     }
 }
 

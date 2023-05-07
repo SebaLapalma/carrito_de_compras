@@ -4,10 +4,10 @@ const styles = {
     detallesCarrito: {
         backgroundColor: '#fff',
         position: 'absolute',
-        martinTop: 30,
+        martinTop: '1.8em',
         boxShadow: '1px 5px 5px rgb(0,0,0,0.3)',
         borderRadius: '5px',
-        width: '300px',
+        width: '18em',
         right: 50,
       },
       ul: {
@@ -19,7 +19,7 @@ const styles = {
         display: 'flex',
         justifyContent: 'space-between',
         alignItems: 'center',
-        padding: '25px 20px',
+        padding: '1.6em 1.2em',
         borderBottom: 'solid 1px #AAA'
       }
 }

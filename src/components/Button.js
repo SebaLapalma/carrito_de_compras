@@ -4,7 +4,7 @@ const styles = {
     button: {
         backgroundColor: '#0A283E',
         color: '#fff',
-        padding: '15px 20px',
+        padding: '0.9em 1.2em',
         border: 'none',
         borderRadius: '5px',
         cursor: 'pointer',        

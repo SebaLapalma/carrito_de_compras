@@ -22,6 +22,11 @@ class App extends Component {
         price: 6300,
         img: '/productos/bad boy.jpg'
       },
+      {
+        name: '212 Party Fever',
+        price: 7000,
+        img: 'productos/212 party fever.jpg'
+      },
     ],
     carrito: [],
     esCarritoVisible: false,

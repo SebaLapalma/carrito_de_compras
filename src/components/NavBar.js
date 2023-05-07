@@ -7,10 +7,10 @@ const styles = {
         display: 'flex',
         flexDirection: 'row',
         alignItems: 'center',
-        height: '100px',
+        height: '6em',
         justifyContent: 'space-between',
         position: 'relative',
-        padding: '0 50px',
+        padding: '0 3em',
         boxShadow: '0 2px 3px rgb(0, 0, 0, 0.1)'
     }
 }
